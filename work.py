@@ -1,4 +1,4 @@
 
-def sum(a,b):
+def sum(a,b,c):
 
-    return a+b
+    return a+b+c
